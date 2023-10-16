@@ -1,7 +1,7 @@
 
 Aplicativo desenvolvido em Java Springboot para gerenciamento de produtos
 
-Foi desenvolvida uma aplicação utilizando autenticação em dois níveis de usuários de acesso para gerenciamento de produtos com Spring Boot e utilizando um banco de dados MySQL.
+Foi desenvolvida uma aplicação utilizando autenticação em dois níveis de usuários de acesso para gerenciamento de produtos com Spring Boot usando uma arquitetura MVC para gerenciar operações CRUD no aplicativo e utilizando um banco de dados MySQL.
 
 
 Ferramentas
